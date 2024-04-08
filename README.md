@@ -15,9 +15,9 @@ El objetivo de esta parte del tp es que los integrantes del grupo apliquen el wo
 
 [borrar esto y personalizar el readme con sus datos]
 
-## Grupo Nº: 99
+## Grupo Nº: 04
 ## Integrantes:
-* pepe
-* pepito
-* pepa
-* pepita
+* Amanda Perez
+* Florencia Vasaro
+* Facundo Jara
+* Maia Silva
