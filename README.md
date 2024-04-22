@@ -4,8 +4,6 @@
 
 Nuestro grupo 
 
-[borrar esto y personalizar el readme con sus datos]
-
 ## Grupo Nº: 04
 ## Integrantes:
 * Amanda Perez
